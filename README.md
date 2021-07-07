@@ -9,7 +9,6 @@ The goal of the project is the predictive maintenance of air conditioning system
 
 The final weighted recall (evaluation metric selected by the professors) we got is 8.5%. 
 
-The company that assigned the project achieved a 23% using a better dataset, so the expected order of performances is lower than that value. 
 # Final evaluation
 
 Our final project got the following evaluation:
